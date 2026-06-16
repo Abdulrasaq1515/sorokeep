@@ -5,8 +5,6 @@ Cargo.lock
 *.rs.bk
 
 # Environment files
-.env
-.env.*
 
 # Logs
 *.log
@@ -31,3 +29,4 @@ coverage/
 DISCUSSIONS_WITH_CLAUDE.md
 PRODUCT_PITCH_Soroban-Sentinel.md
 PLANNED_ISSUES.md
+config.bat
