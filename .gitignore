@@ -5,8 +5,6 @@ Cargo.lock
 *.rs.bk
 
 # Environment files
-.env
-.env.*
 
 # Logs
 *.log
@@ -14,7 +12,6 @@ Cargo.lock
 # Editor/OS files
 .DS_Store
 Thumbs.db
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -31,3 +28,4 @@ coverage/
 DISCUSSIONS_WITH_CLAUDE.md
 PRODUCT_PITCH_Soroban-Sentinel.md
 PLANNED_ISSUES.md
+config.bat
